@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+course:
   message: "Welcome to Course related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
